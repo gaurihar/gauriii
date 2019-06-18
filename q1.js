@@ -1,0 +1,2 @@
+var g;
+var d;
